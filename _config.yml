@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Axel Aviloff"
   avatar           : "profile.png"
-  bio              : "Computer Science Student at UFFS\n      Santa Catarina, Brasil"
-  employer         :
-  email            :
+  bio              : "Computer Science Student at UFFS"
+  employer         : "Santa Catarina, Brasil"
+  email            : "aviloffaxel@hotmail.com"
   uri              :
   bitbucket        :
   codepen          :
