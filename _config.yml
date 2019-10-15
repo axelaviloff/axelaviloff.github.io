@@ -82,22 +82,22 @@ analytics:
 author:
   name             : "Axel Aviloff"
   avatar           : "profile.png"
-  bio              : "Estudante de ciência da computação"
+  bio              : "Computer Science Student"
   employer         :
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://www.facebook.com/axel.aviloff"
-  facebook         :
+  flickr           : 
+  facebook         : "https://www.facebook.com/axel.aviloff"
   foursquare       :
   github           : "axelaviloff.github.io"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://br.linkedin.com/in/axel-aviloff-586b9b191
   pinterest        :
   soundcloud       :
   stackoverflow    : 
